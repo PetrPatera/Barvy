@@ -1,0 +1,2 @@
+# Barvy
+Databáze skladu barev
